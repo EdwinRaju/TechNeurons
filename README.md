@@ -1,6 +1,5 @@
 **How to Run the C# Console Application
-**
-Prerequisites:
+**Prerequisites:
 •	Install .NET SDK (Latest version) from Microsoft .NET Download.
 •	Ensure you have a code editor like Visual Studio or Visual Studio Code installed.
 
